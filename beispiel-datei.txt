@@ -1,4 +1,8 @@
 Diese Datei dient lediglich als Beispiel
+
+änderung im neuerZweig
+2. Änderung in neuerZweeig
+
 Änderung in main
 
-Jetzt noch eine weitere Anpassung
+Jetzt noch eine weitere Anpass
